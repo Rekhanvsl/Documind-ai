@@ -1,0 +1,6 @@
+PySide6>=6.6
+PyMuPDF>=1.24
+google-genai>=1.0
+python-dotenv>=1.0
+# Optional: only if you want to use Claude instead of Gemini
+# anthropic>=0.40
