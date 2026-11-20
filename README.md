@@ -1,6 +1,6 @@
 # DocuMind AI
 
-![DocuMind AI screenshot](Screenshot%202026-11-20%20165405.png)
+![DocuMind AI screenshot](docs/screenshot.png)
 
 A Windows desktop app that lets you **chat with your PDFs**. Pick a document, ask questions in plain English, and get answers with **clickable page references**.
 
