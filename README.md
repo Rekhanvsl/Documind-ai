@@ -1,5 +1,5 @@
 # DocuMind AI
-
+![DocuMind AI screenshot](docs/Screenshot.png)
 A Windows desktop app that lets you **chat with your PDFs**. Pick a document, ask questions in plain English, and get answers with **clickable page references**.
 
 Built with **Python, PySide6, PyMuPDF and a Retrieval-Augmented Generation (RAG) pipeline** powered by the free Google Gemini API (Claude is also supported).
